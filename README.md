@@ -127,3 +127,5 @@ This experiment is based on one question and one comparison. It cannot establish
 - [x] Record initial observations.
 - [ ] Resolve the clarity-rating inconsistency.
 - [ ] Repeat the experiment with more questions.
+- [ ] 
+[View the evaluation scorecard](SCORECARD.md)
